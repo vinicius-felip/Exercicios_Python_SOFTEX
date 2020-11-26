@@ -46,6 +46,6 @@ posicao = 1
 for i in range(6,0,-1):
     for k in range(len(dados)):
         if i == dados[k]:
-            print ('{}º lugar: Jogador {} com {} '.format(posicao,jogadores[k], i))
+            print ('{}º lugar: Jogador {} com {} '.format(posicao,jogo['Jogador'][k], i))
             posicao += 1
 print('_________________________') 
