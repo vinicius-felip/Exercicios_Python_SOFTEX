@@ -11,6 +11,7 @@ jogo = dict(Jogador = jogadores, Dados = dados)
 loop = True
 
 while loop == True:
+    jogo['Dados'] = dados
     system('cls')
     print('Valores sorteados:')
     print("‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾")
@@ -18,7 +19,7 @@ while loop == True:
 
     for i in range(len(jogadores)):
         dados.append(random.choice(range(1,7)))
-        print ('Jogador {0} tirou {1} no dado'.format(jogo['Jogador'][i],dados[i]))
+        print ('Jogador {0} tirou {1} no dado'.format(jogo['Jogador'][i],jogo['Dados'][i]))
         sleep(0.5)
     print('_________________________\n')
 
