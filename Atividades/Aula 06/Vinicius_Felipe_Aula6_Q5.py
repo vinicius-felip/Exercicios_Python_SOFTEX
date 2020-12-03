@@ -29,4 +29,4 @@ for i in range(loop):
     lista.append(input('Digite uma palavra pra saber se é palíndromos: '))
     
 system('cls')
-exibirPalavrasPali(lista)
+exibirPalavrasPali(sorted(lista))
