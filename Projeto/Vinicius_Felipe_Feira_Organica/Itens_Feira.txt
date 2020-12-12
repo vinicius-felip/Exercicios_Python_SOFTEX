@@ -1,0 +1,89 @@
+                           FOLHAS E HORTALIÇAS
+Nº   Produto                                                Preço unidade
+-------------------------------------------------------------------------
+01 - Alface americano                                           R$  2,50
+02 - Alface crespa                                              R$  2,50
+03 - Alho poró                                                  R$  2,00
+04 - Capim santo                                                R$  2,50
+05 - Cebola                                                     R$  3,00
+06 - Cebolinha                                                  R$  2,50
+07 - Coentro                                                    R$  2,50
+08 - Couve folha                                                R$  2,50
+09 - Chinguezay (acelga chinesa)                                R$  3,00
+10 - Espinafre                                                  R$  3,00
+11 - Hortelã                                                    R$  2,50
+12 - Salsinha                                                   R$  2,50
+13 - Rúcula                                                     R$  2,50
+
+                                FRUTAS              
+Nº   Produto                                                Preço unidade
+-------------------------------------------------------------------------
+01 - Banana pacovan                                             R$  0,25
+02 - Cana (Saquinho)                                            R$  2,00
+03 - Laranja comum                                              R$  0,50
+04 - Laranja mimo                                               R$  0,50
+05 - Maracujá (1 Kg)                                            R$  7,00
+
+                  RAÍZES, TURBÉCULOS, LEGUMES E AFINS
+Nº   Produto                                                Preço unidade
+-------------------------------------------------------------------------
+01 - Batata doce (1 Kg)                                         R$  4,00
+02 - Cará (1 Kg)                                                R$  5,00
+03 - Cenoura                                                    R$  3,00
+04 - Jerimum (1 Kg)                                             R$  5,00
+05 - Macaxeira (1 Kg)                                           R$  4,00
+06 - Rabanete                                                   R$  2,50
+07 - Quiabo                                                     R$  0,13
+
+                                OUTROS
+Nº   Produto                                                Preço unidade
+-------------------------------------------------------------------------
+01 - Fava seca (1 Kg)                                           R$ 12,00
+02 - Mel italiana (250 g)                                       R$ 20,00
+03 - Mel italiana (5 g)                                         R$ 35,00
+04 - Mel no favo (450 gramas)                                   R$ 25,00
+05 - Ovos de capoeira                                           R$  1,00
+06 - Polpa de cajá (400 g)                                      R$  6,00
+07 - Própolis (20 ml)                                           R$ 16,00
+08 - Pão com trigo (Pequeno)                                    R$  7,00
+09 - Bolo (S/Trigo)                                             R$ 10,00
+10 - Bolinho de bacia (c/trigo)                                 R$  2,00
+11 - Mini pizza                                                 R$  3,00
+12 - Pizza brotinho                                             R$  5,00
+13 - Bolacha C/Trigo (Saquinho)                                 R$  5,00
+14 - Sucos S/Açúcar (200 ml)                                    R$  3,00
+15 - Sucos C/Açúcar (200 ml)                                    R$  3,00
+16 - Sucos (1 litro)                                            R$ 10,00
+17 - Refeições congeladas (500 g)                               R$ 12,00
+18 - Refeições congeladas (750 g)                               R$ 15,00
+19 - Hambúrguer de ora-pro-nóbis                                R$  2,00
+20 - Molhos prontos                                             R$ 10,00
+21 - Massa artesanal                                            R$ 12,00
+
+                      PASTINHAS, ANTEPASTO E GELEIA
+Nº   Produto                                                Preço unidade     
+-------------------------------------------------------------------------
+01 - Pepita de girassol                                         R$  5,00
+02 - Homus de grão de bico com paprika                          R$ 10,00
+03 - Bisnaga maionese de pepita girassol (250 ml)               R$ 10,00
+04 - Pimentas ao mel de engenho                                 R$ 15,00
+05 - Confit de tomatinho, Pimenta, Pimentão ou Berinjela        R$ 15,00
+06 - Geleia de tomate C/Pimenta, Abacaxi ou Manga               R$ 13,00
+07 - Caponata Siciliana                                         R$ 13,00
+
+                            LANCHES S/TRIGO
+Nº   Produto                                                Preço unidade     
+-------------------------------------------------------------------------
+01 - Quiche de macaxeira C/Alho poró                            R$  5,00
+02 - Quiche de macaxeira C/Tomate seco                          R$  5,00
+03 - Sanduiche S/Glúten de ricota                               R$  6,00
+04 - Sanduíche S/Glúten de caponata Siciliana                   R$  6,00
+05 - Sanduíche S/Glúten de ragu                                 R$  6,00
+
+                            LANCHES C/TRIGO	
+Nº   Produto                                                Preço unidade     
+-------------------------------------------------------------------------
+01 - Empada de falso camarão                                    R$  5,00
+02 - Empada de antepasto de berinjela                           R$  5,00
+03 - Empada de Tofu C/Cebola caramelizada                       R$  5,00
+04 - Pãozinhos de inhame recheados                              R$  5,00
