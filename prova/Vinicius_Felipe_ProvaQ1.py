@@ -21,9 +21,9 @@ def cadastrarPaciente(qntPacientes):
     
     
 def exibirPacientes():
-    print(f'\nNome       Situação ')   
+    print(f'\nPaciente       Situação ')   
     for nomePa, estado in pacientes.items():
-        print(f'{nomePa}{estado:>12}')
+        print(f'{nomePa:<18}{estado}')
         
 pacientes = dict()
 

@@ -14,7 +14,7 @@ def verificacaoEstoque(produtoEscolhido):
     print(f'Nome\t\tQnt\t\tPreço') 
     if produtoEscolhido in produtos:
         produtos.index(produtoEscolhido)
-        print(f'{produtoEscolhido:<17}{quantidade[produtos.index(produtoEscolhido)]:<16}{preco[produtos.index(produtoEscolhido)]}')
+        print(f'{produtoEscolhido:<17}{quantidade[produtos.index(produtoEscolhido)]:-<16}{preco[produtos.index(produtoEscolhido)]}')
     else:
         print(f'Produto não encontrado no estoque.')
     print('-'*40)

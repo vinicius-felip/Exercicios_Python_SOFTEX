@@ -23,7 +23,7 @@ def ferias():
         notas.append(float(input(f'Digite a nota obtida na discplina: ')))
         if len(disciplinas) >4:
             while not resposta in ['S','N']:
-                resposta = input('\nS - SIM\nN - Não\nDeseja continuar a adiconar disciplinas?').upper()
+                resposta = input('\nS - SIM\nN - Não\nDeseja continuar a adicionar disciplinas?').upper()
                 print(resposta)
             if resposta in 'N':
                 loop = False
