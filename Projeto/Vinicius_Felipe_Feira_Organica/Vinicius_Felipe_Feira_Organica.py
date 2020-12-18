@@ -188,14 +188,14 @@ def finalizarCompras():
     notafiscalPython.append(f'\nNome: {nome}')
     endereco = input('Digite seu endereço completo: ')
     notafiscalPython.append(f'\nEndereço: {endereco}')
-    
+    notafiscalPython.insert(0,'                                        NOTA FISCAL                                       \n\n\n')
     for linha in notafiscalPython:
         notafiscalTxt += linha
     
     caminho = os.path.expanduser('~')   
     
     sistemaOper = int(platform.release())
-    
+
     if  sistemaOper == 10:
         notaFiscal = open(f'{caminho}\\OneDrive\\Área de Trabalho\\NotaFiscal_{nome}.txt','x+', encoding='utf8')
     else:
