@@ -2,12 +2,10 @@ import platform
 import os
 limpa = lambda: print('\n'*130)
 
-path = str(os.path.abspath(''))
-for caminho, diretorios, arquivos in os.walk('.'):
-    if 'Itens_Feira.txt' in arquivos:
-        path += str(caminho).replace('.','')+'\\' + str(arquivos[0])
 
-arquivo = open(f'{path}', 'r', encoding= 'utf8')
+path = os.path.dirname(os.path.realpath(__file__))
+
+arquivo = open(f'{path}\Itens_Feira.txt', 'r', encoding= 'utf8')
 produtos = arquivo.readlines()
 
 notaFiscalFeita = False
