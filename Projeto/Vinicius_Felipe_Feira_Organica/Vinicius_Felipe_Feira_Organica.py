@@ -173,6 +173,7 @@ def exibirCarrinho():
 
 
 def finalizarCompras():
+    global path
     global notaFiscalFeita
     global notafiscalTxt
     limpa()
@@ -191,15 +192,8 @@ def finalizarCompras():
     notafiscalPython.insert(0,'                                        NOTA FISCAL                                       \n\n\n')
     for linha in notafiscalPython:
         notafiscalTxt += linha
-    
-    caminho = os.path.expanduser('~')   
-    
-    sistemaOper = int(platform.release())
 
-    if  sistemaOper == 10:
-        notaFiscal = open(f'{caminho}\\OneDrive\\Área de Trabalho\\NotaFiscal_{nome}.txt','x+', encoding='utf8')
-    else:
-        notaFiscal = open(f'{caminho}\\Desktop\\NotaFiscal_{nome}.txt','x+', encoding='utf8')
+    notaFiscal = open(f'{path}\{nome}_NotaFiscal.txt','x+', encoding='utf8')
     notaFiscal.write(str(notafiscalTxt))
     notaFiscalFeita = True
     sair()
