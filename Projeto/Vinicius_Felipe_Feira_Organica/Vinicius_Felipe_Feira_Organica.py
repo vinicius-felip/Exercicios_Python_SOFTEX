@@ -261,7 +261,7 @@ def sair():
     print('-='*25)
     print('Volte Sempre\n')
     if notaFiscalFeita:
-        print('Sua nota fiscal foi enviada para a Área de Trabalho\n')
+        print('Sua nota fiscal foi enviada para a pasta\n')
     
     
 
